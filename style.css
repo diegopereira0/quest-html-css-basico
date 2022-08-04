@@ -1,0 +1,25 @@
+table {
+  color: #ffffff;
+}
+
+td,
+th {
+  padding: 10px;
+}
+
+.header-moda {
+  background-color: #bb86fc;
+}
+
+.header-casa {
+  background-color: #00c4b4;
+}
+
+th {
+  font-size: 20px;
+}
+
+table td {
+  background-color: #424250;
+  font-size: 18px;
+}
